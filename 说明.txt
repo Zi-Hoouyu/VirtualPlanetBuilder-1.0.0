@@ -1,0 +1,4 @@
+vs2015 64位的osg（3.4.0）
+gdal是sdparty/x64里的
+vpb是1.0.0-truck版本
+osgdb_nvtt.dll是osg3.2的版本从网上下载的。
